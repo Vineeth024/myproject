@@ -1,0 +1,9 @@
+Home Tutorials Course Team Get involved Links Contact
+INTRO TO GITHUB FOR VERSION CONTROL
+KEEPING TRACK OF YOUR CODE AND ITS MANY VERSIONS
+Created by Gergana
+
+Tutorial Aims:
+Get familiar with version control, git and GitHub
+Create your own repository and project folder structure
+Sync and interact with your repository through RStudio
